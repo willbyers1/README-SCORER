@@ -79,9 +79,9 @@ Documentation is often the most neglected part of software development. **README
 
 Run the tool against any Markdown file by providing its path:
 
-### Basic Score
-```bash
-```
+
+
+
 
 
 <div align="center">
