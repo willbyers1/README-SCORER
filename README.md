@@ -81,7 +81,10 @@ Run the tool against any Markdown file by providing its path:
 
 ### Basic Score
 ```bash
-node dist/index.js ./README.md
-JSON Output (For Automation)Bashnode dist/index.js ./README.md --format json
-Detailed Breakdown (Verbose)Bashnode dist/index.js ./README.md --verbose
-⚖️ Scoring MatrixSectionPointsCriteriaProject Description25Requires >50 characters of descriptive text.Installation25Must contain code blocks (```) or structured steps.Usage25Requires practical code examples or command usage.Author Info25Validates presence of email, GitHub link, or handles.Bonus+5Awarded for "License" or "Contributing" sections.👨‍💻 AuthorMert (willbyers1)GitHub: @willbyers1Role: Computer Engineering Student & Developer
+```
+
+
+<div align="center">
+
+**Created By Mert Batu Bülbül**
+* 🎓 Computer Engineering Undergraduate * 💻 Full Stack Developer & AI Enthusiast *
