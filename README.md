@@ -11,11 +11,6 @@
 
 ---
 
-## 🖼️ Project Preview
-
-
----
-
 ## 🌌 Overview
 
 Documentation is often the most neglected part of software development. **README Scorer** addresses this by programmatically auditing markdown files. It doesn't just check for keywords; it analyzes structure, content density, and the presence of critical technical artifacts like code blocks and contact links.
