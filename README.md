@@ -13,8 +13,6 @@
 
 ## 🖼️ Project Preview
 
-![README Scorer Demo](https://via.placeholder.com/800x400?text=CLI+Interface+Preview+With+ANSI+Colors)
-*Tip: You can replace this with an actual terminal screenshot using `Giphy` or `Asciinema`.*
 
 ---
 
@@ -85,6 +83,10 @@ Run the tool against any Markdown file by providing its path:
 
 
 <div align="center">
+    
+CLICK TO USE
+If the link doesn't work here is the URL: https://willbyers1.github.io/README-SCORER/
+
 
 **Created By Mert Batu Bülbül**
 * 🎓 Computer Engineering Undergraduate * 💻 Full Stack Developer & AI Enthusiast *
